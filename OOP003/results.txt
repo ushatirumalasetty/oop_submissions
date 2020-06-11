@@ -1,0 +1,43 @@
+
+
+0 tests passed out of 39 tests.
+
+test_complex_numbers.py::test_complex_number_initiating_for_given_values: failed
+test_complex_numbers.py::test_complex_number_initiating_for_given_float_values: failed
+test_complex_numbers.py::test_when_initiating_creating_two_instance: failed
+test_complex_numbers.py::test_initiating_for_different_values: failed
+test_complex_numbers.py::test_initiating_when_only_one_value_is_given: failed
+test_complex_numbers.py::test_initiating_when_no_value_is_given: failed
+test_complex_numbers.py::test_initiating_when_real_part_is_invalid: failed
+test_complex_numbers.py::test_initiating_when_imaginary_part_is_invalid: failed
+test_complex_numbers.py::test_initiating_when_both_real_and_imaginary_part_are_invalid: failed
+test_complex_numbers.py::test_complex_numbers_for_conjugate: failed
+test_complex_numbers.py::test_complex_numbers_for_conjugate_for_negative_number: failed
+test_complex_numbers.py::test_conjugate_when_there_is_only_real_part: failed
+test_complex_numbers.py::test_conjugate_when_there_is_only_imaginary_part: failed
+test_complex_numbers.py::test_complex_numbers_addition: failed
+test_complex_numbers.py::test_when_addition_with_zero: failed
+test_complex_numbers.py::test_when_addition_given_negative_numbers: failed
+test_complex_numbers.py::test_addition_when_only_one_part_given: failed
+test_complex_numbers.py::test_complex_numbers_subtraction: failed
+test_complex_numbers.py::test_when_subtraction_with_zero: failed
+test_complex_numbers.py::test_when_subtraction_given_negative_numbers: failed
+test_complex_numbers.py::test_subtraction_when_only_one_part_given: failed
+test_complex_numbers.py::test_complex_numbers_multiplication: failed
+test_complex_numbers.py::test_when_multiplication_with_zero: failed
+test_complex_numbers.py::test_when_multiplication_given_negative_numbers: failed
+test_complex_numbers.py::test_multiplication_when_only_one_part_given: failed
+test_complex_numbers.py::test_complex_numbers_division: failed
+test_complex_numbers.py::test_when_division_with_zero: failed
+test_complex_numbers.py::test_when_division_given_negative_numbers: failed
+test_complex_numbers.py::test_division_when_only_one_part_given: failed
+test_complex_numbers.py::test_complex_numbers_absolute: failed
+test_complex_numbers.py::test_absolute_when_only_real_part_is_given: failed
+test_complex_numbers.py::test_absolute_when_only_imaginary_part_is_given: failed
+test_complex_numbers.py::test_complex_number_equality: failed
+test_complex_numbers.py::test_complex_number_inequality: failed
+test_complex_numbers.py::test_equality_when_one_value_is_given: failed
+test_complex_numbers.py::test_equality_when_value_is_empty: failed
+test_complex_numbers.py::test_complex_number_to_string: failed
+test_complex_numbers.py::test_complex_number_to_string_when_one_value_is_given: failed
+test_complex_numbers.py::test_complex_number_to_string_when_real_part_is_zero: failed
